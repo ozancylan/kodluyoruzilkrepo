@@ -14,6 +14,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ---
 ## Usage
 Projeyi tamamladıktan sonra VS Code programını açınız.
+
 Linux: 
 `cd kodluyoruzilkrepo
 code .`

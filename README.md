@@ -2,6 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+
 ---
 ![](https://github.com/ozancylan/kodluyoruzilkrepo/blob/3972430801edd03ba9c6d841e5328b39773f0838/kayit-fotografi.png)
 
@@ -28,3 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
+[Patika.dev](https://www.patika.dev/tr)
